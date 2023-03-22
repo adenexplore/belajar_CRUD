@@ -1,0 +1,62 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header atau topnav */
+.header {
+    margin: auto;
+    width: 100%;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.header a {
+    padding: 50px;
+    padding-top: 30px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+}
+
+.header a:hover{
+    background-color:  #ff3333;
+}
+
+table{
+    margin: auto;
+}
+
+/* tambah data a href di index.php */
+.tambahdata {
+    margin: auto;
+    background-color: darkcyan;
+    color:white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 30px;
+    margin-left: 730px;
+    text-decoration: none;
+}
+
+table{
+    color: rgb(91, 91, 236);
+    background-color: rgb(199, 191, 191);
+    border: 5px solid rgb(207, 115, 115) ;
+}
+.a1{
+    margin: auto;
+    background-color: darkcyan;
+    color:white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 30px;
+    margin-left: 730px;
+    text-decoration: none;
+}
